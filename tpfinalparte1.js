@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=JfZXEvWYbeE
+
 let pantallas = [];
 let textosprincipal = [];
 let textoscamino2 = [];
